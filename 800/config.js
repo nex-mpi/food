@@ -25,3 +25,7 @@
   const focal  = 9.230405112224371;
 
 
+  const max_viewing_right =  0.11;
+  const max_viewing_left =  -0.1;
+  const max_viewing_down = -0.035;
+  const max_viewing_up = 0.04;
